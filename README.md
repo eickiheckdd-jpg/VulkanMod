@@ -1,6 +1,6 @@
 # <a href="https://github.com/xCollateral/VulkanMod"> <img src="./src/main/resources/assets/vulkanmod/vlogo.png" width="125"/> </a>
 
-# VulkanMod
+# Vulkan Mod
 
 This is a Minecraft mod that introduces a brand new **Vulkan** based voxel rendering engine to **Minecraft** in order to both replace the default OpenGL renderer and bring performance improvements and new features.
 The Vulkan API allows for modern device capabilities that are not possible, or not widely supported, on the default OpenGL renderer.
